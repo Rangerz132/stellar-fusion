@@ -4,7 +4,9 @@
 
 ## Overview
 
-Stellar Fusion is a captivating puzzle game developed using Phaser for mobile and web by B2TGame. It combines the strategic elements of the classic Same Game with fast-paced action. The entire game structure and all gameplay mechanics were meticulously designed and implemented by me, ensuring a cohesive and polished gaming experience from start to finish.
+Stellar Fusion is a captivating puzzle game developed using Phaser for mobile and web by B2TGame. It combines the strategic elements of the classic Same Game with fast-paced action. The entire game structure and all gameplay mechanics were meticulously implemented by me, ensuring a cohesive and polished gaming experience from start to finish.
+
+[Play](https://play.charade.ai/game/stellar-fusion/play)
 
 ## Features
 
