@@ -15,8 +15,9 @@ Stellar Fusion is a captivating puzzle game developed using Phaser for mobile an
 - **Power-Ups**:
   Power-ups provide players with tools to help them achieve their goals in the game. The available power-ups vary depending on the selected game mode:
 
-      - **Action Mode Power-Ups**: *Stellar Explosion* that explode every tile of a certain type, *Bomb* that expode several tiles in a certain radius, *Hourglass* that reduce the multiplicator gauge speed.
-      - **Puzzle Mode Power-Ups**: *Teleport* a tile in an empty space, *Swap* two tiles, *Undo* the previous move.
+  - **Action Mode Power-Ups**: _Stellar Explosion_ that explode every tile of a certain type, _Bomb_ that expode several tiles in a certain radius, _Hourglass_ that reduce the multiplicator gauge speed.
+
+  - **Puzzle Mode Power-Ups**: _Teleport_ a tile in an empty space, _Swap_ two tiles, _Undo_ the previous move.
 
 - **Upgrades**: Use soft currency earned during gameplay to purchase upgrades, enhancing your abilities and increasing your chances of success.
 
